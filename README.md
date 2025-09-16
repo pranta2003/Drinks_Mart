@@ -3,7 +3,7 @@
 > A modern, responsive online drinks store — clean UI, smooth UX, and easy to customize.
 
 [![Repo Size](https://img.shields.io/github/repo-size/pranta2003/Drinks_Mart)](https://github.com/pranta2003/Drinks_Mart)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
+[![License](https://img.shields.io/badge/license-Pranta-blue.svg)](#license)
 [![Made with ❤️](https://img.shields.io/badge/made%20with-HTML%2FJS%2FCSS-orange.svg)](#built-with)
 
 ---
